@@ -38,10 +38,10 @@ Hello, Docker!
 
 entrypoint do Docker:
 
-1- O entrypoint é como o comando padrão executado quando você inicia um container.
-2- Especifica o executável ou processo primário a ser executado dentro do container.
-3- O entrypoint é definido no Dockerfile usando a instrução ENTRYPOINT.
-4- O entrypoint não pode ser substituído ou alterado ao executar o container.
+- O entrypoint é como o comando padrão executado quando você inicia um container.
+- Especifica o executável ou processo primário a ser executado dentro do container.
+- O entrypoint é definido no Dockerfile usando a instrução ENTRYPOINT.
+- O entrypoint não pode ser substituído ou alterado ao executar o container.
 
 
 A principal diferença entre CMD e ENTRYPOINT no Docker é que, em termos de execução, os argumentos padrão fornecidos pelo CMD podem ser substituídos, enquanto os fornecidos pelo ENTRYPOINT não podem.
@@ -81,10 +81,10 @@ Hello, Docker!
 
 Docker Entrypoint:
 
-1- The entrypoint is like the default command that runs when you start a container.
-2- It specifies the primary executable or process to run inside the container.
-3- The entrypoint is defined in the Dockerfile using the ENTRYPOINT instruction.
-4- The entrypoint cannot be overridden or changed when running the container.
+- The entrypoint is like the default command that runs when you start a container.
+- It specifies the primary executable or process to run inside the container.
+- The entrypoint is defined in the Dockerfile using the ENTRYPOINT instruction.
+- The entrypoint cannot be overridden or changed when running the container.
 
 
 
