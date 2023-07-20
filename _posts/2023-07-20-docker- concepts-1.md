@@ -30,8 +30,10 @@ Em resumo, você pode pensar em uma imagem como um modelo ou pacote de um aplica
 Imagem: Modelo ou captura de tela de um aplicativo e seu ambiente.
 container: Instância em execução de uma imagem; ambiente isolado onde o aplicativo é executado.
 Docker Engine: Tecnologia central que possibilita containers, permitindo criar, executar e gerenciar containers.
+
+
 ---
----
+
 - Image:
   - An image is like a snapshot or template of a software application and its environment.
   - It contains all the necessary files, libraries, and configurations needed to run the application.
